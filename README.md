@@ -25,8 +25,10 @@ General Features:
 - Python 3, PyQT5, SQLite3
 
 Screenshot Dashboard:
+
 ![Alt text](/isrt_v1.5.jpg?raw=true "Screenshot Dashboard")
 
 Screenshot Monitor:
+
 ![Alt text](/monitor_v1.5.jpg?raw=true "Screenshot Monitor")
 

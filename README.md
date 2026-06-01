@@ -6,9 +6,9 @@ ISRT is a python 3.9/PyQt5/SQLite3-based RCON and Query Tool for Insurgency Sand
 
 Release Infos:
 
-    Cleaned up Code and removed a tiny error in Main program
-    Removed links to my old website www.isrt.info
-
+1. Cleaned up Code and removed a tiny error in Main program
+2. Removed links to my old website www.isrt.info
+   
 General Features:
 - Integrated 131 custom maps
 - 204 Mutators available
@@ -23,3 +23,8 @@ General Features:
 - Command History Management
 - All OS compatible
 - Python 3, PyQT5, SQLite3
+
+Screenshot Dashboard:
+
+
+Screenshot Monitor:

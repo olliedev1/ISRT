@@ -25,6 +25,7 @@ General Features:
 - Python 3, PyQT5, SQLite3
 
 Screenshot Dashboard:
-
+https://github.com/olliedev1/ISRT/blob/main/isrt_v1.5.jpg
 
 Screenshot Monitor:
+https://github.com/olliedev1/ISRT/blob/main/monitor_v1.5.jpg
